@@ -1,0 +1,56 @@
+
+ASISTENCIA
+NÚMERO DE CLASES: 12
+
+APELLIDOS Y NOMBRES			   NÚMERO DE ASISTENCIAS	
+1. Apaza Apaza Nelzon Jorge     		|	12	|
+2. Apaza Quispe Angel Abraham   		|	12	|
+3. Benavente Aguirre Paolo Daniel		|	12	|
+4. Carazas Quispe Alessander Jesus		|	12	|
+5. Castillo Sancho Sergio       		|	12	|
+6. Cayllahua Gutierrez Diego Yampier		|	11	|
+7. Ccama Marron Gustavo Alonso  		|	2	|
+8. Cerpa Garcia Jean Franco     		|	9	|
+9. Condori Casquino Ebert Luis  		|	10	|
+10. Davis Coropuna Leon Felipe   		|	1	|
+11. Escarza Pacori Alexander Raul		|	4	|
+12. Gonzales Condori Alejandro Javier		|	0	|
+13. Gutierrez Zevallos Jaime José		|	5	|
+14. Hualpa Lopez Jose Mauricio   		|	0	|
+15. Huaman Coaquira Luciana Julissa		|	5	|
+16. Lazo Paxi Natalie Marleny    		|	1	|
+17. Lopez Condori Andrea Del Rosario		|	8	|
+18. Lupo Condori Avelino         		|	10	|
+19. Maldonado Casilla Braulio Nayap		|	10	|
+20. Maldonado Parejo Roy Abel    		|	9	|
+21. Mariños Hilario Princce Yorwin		|	2	|
+22. Martínez Choque Aldo Raúl    		|	9	|
+23. Mayorga Villena Jharold Alonso		|	5	|
+24. Mena Quispe Sergio Sebastian Santos		|	1	|
+25. Mogollon Caceres Sergio Daniel		|	4	|
+26. Montoya Choque Leonardo      		|	11	|
+27. Nizama Cespedes Juan Carlos Antonio		|	12	|
+28. Olazábal Chávez Neill Elverth		|	11	|
+29. Pardavé Espinoza Christian   		|	4	|
+30. Parizaca Mozo Paul Antony    		|	5	|
+31. Quilca Huamani Bryan         		|	1	|
+32. Quispe Rojas Javier Wilber   		|	7	|
+33. Roque Sosa Owen Haziel       		|	8	|
+34. Ruiz Mamani Eduardo German   		|	9	|
+35. Sucasaca Chire Edward Henry  		|	11	|
+36. Taya Yana Samuel Omar        		|	11	|
+37. Yavar Guillen Roberto Gustavo		|	9	|
+38. Zamalloa Molina Sebastian Agenor		|	1	|
+39. Zhong Callasi Linghai Joaquin		|	8	|
+
+------------------------------------------------
+
+Cantidad de alumnos que abandonaron el curso: 2
+
+------------------------------------------------
+
+Cantidad de alumnos que asistieron todo el semestre: 6
+
+------------------------------------------------
+
+Cantidad de alumnos que faltaron en el semestre: 33

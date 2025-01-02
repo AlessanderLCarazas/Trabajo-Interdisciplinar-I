@@ -1,0 +1,48 @@
+
+------------------------------------------------
+
+Alumno con la mayor nota: Hualpa Lopez Jose Mauricio(16)
+
+------------------------------------------------
+
+Alumno con la menor nota: Zhong Callasi Linghai Joaquin(14)
+
+------------------------------------------------
+
+Cantidad de alumnos que aprobaron el semestre: 39
+
+------------------------------------------------
+
+Cantidad de alumnos que desaprobaron eInforme_Notas_Finalesl semestre: 0
+
+------------------------------------------------
+
+Alumno con la mayor nota: Hualpa Lopez Jose Mauricio(16)
+
+------------------------------------------------
+
+Alumno con la menor nota: Zhong Callasi Linghai Joaquin(13)
+
+------------------------------------------------
+
+Cantidad de alumnos que aprobaron el semestre: 39
+
+------------------------------------------------
+
+Cantidad de alumnos que desaprobaron eInforme_Notas_Finalesl semestre: 0
+
+------------------------------------------------
+
+Alumno con la mayor nota: Hualpa Lopez Jose Mauricio(16)
+
+------------------------------------------------
+
+Alumno con la menor nota: Zhong Callasi Linghai Joaquin(14)
+
+------------------------------------------------
+
+Cantidad de alumnos que aprobaron el semestre: 39
+
+------------------------------------------------
+
+Cantidad de alumnos que desaprobaron eInforme_Notas_Finalesl semestre: 0
